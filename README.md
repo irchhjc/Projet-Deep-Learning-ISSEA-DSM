@@ -1,5 +1,9 @@
 # 🧠 Pistachio Classification – Deep Learning Optimization Project
 
+- **AYONTA NDJOUTSE Vanelle**
+- **NGOULOU NGOUBILI Irch Defluviaire**
+- **SOME Kpibargnin**
+
 ## 🚀 Overview
 
 Ce projet présente une implémentation complète d’un pipeline de Deep Learning dédié à la classification automatique de pistaches à partir de caractéristiques numériques.
